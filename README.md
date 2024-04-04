@@ -9,3 +9,11 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanIsak2000&show_icons=true&theme=dark)
   
 </div>
+
+
+<div align='center'>
+  
+  ![cats](https://moe-counter.glitch.me/get/@ivanisak2000?theme=gelbooru)
+  
+</div>
+

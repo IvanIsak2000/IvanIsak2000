@@ -11,9 +11,17 @@
 </div>
 
 
-<div align='center'>
+<!-- <div align='center'>
   
   ![cats](https://moe-counter.glitch.me/get/@ivanisak2000?theme=gelbooru)
   
 </div>
+-->
+
+> [!IMPORTANT]
+> GITHUB НЕ ОТОБРАЖАЕТ МОИ РЕАЛЬНЫЕ СКИЛЛЫ, Т.К. ВСЕ МОИ КРУПНЫЕ РЕПОЗИТОРИИ СКРЫТЫ/ПЕРЕМЕЩЕНЫ. ПОЭТОМУ НЕ РЕКОМЕНДУЮ МЕНЯ ОЦЕНИВАТЬ ПО КОДУ В РЕПОЗИТОРИЯХ.
+
+> [!IMPORTANT]
+> GITHUB DOES NOT DISPLAY MY REAL SKILLS, BECAUSE ALL MY LARGE REPOSITORIES ARE HIDDEN/MOVED. SO I DO NOT RECOMMEND RATING ME BY THE CODE IN THE REPOSITORIES.
+
 
